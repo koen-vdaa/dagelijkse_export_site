@@ -20,13 +20,11 @@ jobs:
 
       - name: Install dependencies
         run: |
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          pip install -r requirements.txt
 
-      - name: Run daily scripts (schrijven naar ./docs)
+      - name: Run ETF script
         run: |
           python scripts/etf_overzicht.py
-          # eventueel meer scripts hier:
-          # for f in scripts/*.py; do echo "Running $f"; python "$f"; done
 
       - name: Commit docs output
         run: |
