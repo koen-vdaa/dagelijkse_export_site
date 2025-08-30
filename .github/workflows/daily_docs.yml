@@ -2,7 +2,7 @@ name: Daily job
 
 on:
   schedule:
-    - cron: "0 5 * * *"   # 05:00 UTC = 07:00 NL (winter) / 06:00 (zomer)
+    - cron: "0 7 * * *"   # 05:00 UTC = 07:00 NL (winter) / 06:00 (zomer)
   workflow_dispatch:
 
 permissions:
