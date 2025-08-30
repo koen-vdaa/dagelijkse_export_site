@@ -2,15 +2,17 @@ name: Daily job
 
 on:
   schedule:
-    # 05:00 UTC ≈ 07:00 in NL (CET/CEST afhankelijk). Pas aan naar wens.
-    - cron: "0 5 * * *"
-  workflow_dispatch: {}   # handmatige run-knop
+    - cron: "0 5 * * *"   # 05:00 UTC ≈ 07:00 NL (zomer)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
 
 jobs:
-  run:
+  build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write   # nodig voor commit/push
     steps:
       - uses: actions/checkout@v4
 
@@ -18,18 +20,23 @@ jobs:
         with:
           python-version: "3.11"
 
-      # Installeer dependencies indien je requirements.txt hebt
-      - name: Install deps
+      - name: Run script (vul site/)
         run: |
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          python daily_export.py || true
+          # of: python scripts/run_job.py
 
-      - name: Run script
-        run: python scripts/daily_export.py
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
 
-      - name: Commit site output
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add site
-          git commit -m "Update site $(date -u +"%Y-%m-%dT%H:%M:%SZ")" || echo "No changes to commit"
-          git push
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
