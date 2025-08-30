@@ -22,9 +22,22 @@ jobs:
         run: |
           pip install -r requirements.txt
 
+      - name: Show docs BEFORE
+        run: |
+          echo "=== BEFORE ==="
+          ls -la docs || true
+          git status --porcelain
+
       - name: Run ETF script
         run: |
           python scripts/etf_overzicht.py
+        
+      - name: Show docs AFTER
+        run: |
+          echo "=== AFTER ==="
+          ls -la docs
+          git status --porcelain
+          git diff --stat || true
 
       - name: Commit docs output
         run: |

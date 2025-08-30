@@ -127,3 +127,9 @@ thead th{{position:sticky;top:0;background:#fff}}
         # heel simpele injectie vóór </ul>
         content = content.replace("</ul>", "<li><a href='etf_overzicht.html'>ETF Overzicht</a></li></ul>")
     idx.write_text(content, encoding="utf-8")
+
+# Voeg een "heartbeat" toe zodat er altijd een wijziging is:
+(OUT / "last_run.json").write_text(
+    json.dumps({"utc": datetime.utcnow().isoformat() + "Z"}, indent=2),
+    encoding="utf-8"
+)
