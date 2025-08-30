@@ -2,7 +2,7 @@ name: Daily job
 
 on:
   schedule:
-    - cron: "0 5 * * *"   # 05:00 UTC ≈ 07:00 NL (zomer)
+    - cron: "0 5 * * *"   # 05:00 UTC = 07:00 NL (winter) / 06:00 (zomer)
   workflow_dispatch:
 
 permissions:
@@ -18,10 +18,15 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Run script (schrijft naar ./docs)
+      - name: Install dependencies
         run: |
-          python daily_export.py || true
-          # of: python scripts/run_job.py
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Run daily scripts (schrijven naar ./docs)
+        run: |
+          python scripts/etf_overzicht.py
+          # eventueel meer scripts hier:
+          # for f in scripts/*.py; do echo "Running $f"; python "$f"; done
 
       - name: Commit docs output
         run: |
