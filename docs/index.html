@@ -1,1 +1,22 @@
-<!doctype html><title>OK</title><h1>Het werkt 🎉</h1>
+cat > docs/index.html << 'HTML'
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8" />
+  <title>Dagelijkse resultaten</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <style>
+    body{font-family:system-ui,Arial;margin:2rem;line-height:1.5;max-width:70ch}
+    li{margin:.4rem 0}
+  </style>
+</head>
+<body>
+  <h1>Dagelijkse resultaten</h1>
+  <ul>
+    <li><a href="etf_overzicht.html">ETF Overzicht (HTML)</a></li>
+    <li><a href="etf_overzicht.json">ETF Overzicht (JSON)</a></li>
+    <li><a href="etf_overzicht.csv">ETF Overzicht (CSV)</a></li>
+  </ul>
+</body>
+</html>
+HTML
