@@ -1,10 +1,10 @@
 Ticker,ETF naam,Huidige waarde,Verschil tot piek (12m),Stijging (4m),Stijging (12m),Stijging (5y)
-LYP6.F,Amundi Stoxx Europe 600 UCITS ETF C,-,-,3.09%,8.41%,12.56%
-IBC3.F,iShares Core MSCI EM IMI UCITS ETF,-,-,8.93%,9.49%,21.94%
-ESIT.DE,iShares MSCI Europe Information Technology Sector UCITS ETF,€7.14,€-1.47 (-17.06%),-5.40%,-8.82%,39.35%
-EX25.VI,iShares STOXX Europe 600 UCITS ETF (DE),€54.67,€-1.52 (-2.71%),1.42%,4.68%,51.61%
-VWCE.DE,Vanguard FTSE All-World UCITS ETF USD Accumulation,€135.60,€-4.40 (-3.14%),8.58%,9.73%,81.45%
-IS3R.F,iShares Edge MSCI World Momentum Factor UCITS ETF,-,-,7.17%,12.88%,76.65%
-SXR8.DE,iShares Core S&P 500 UCITS ETF USD (Acc),€590.20,€-34.92 (-5.59%),10.45%,9.32%,102.92%
-EUNK.DE,iShares Core MSCI Europe UCITS ETF EUR (Acc),€86.39,€-2.27 (-2.56%),2.23%,7.18%,19.16%
-CEMR.DE,iShares Edge MSCI Europe Momentum Factor UCITS ETF EUR (Acc),€13.36,€-0.47 (-3.43%),3.43%,19.40%,81.54%
+LYP6.DE,Amundi Stoxx Europe 600 UCITS ETF C,€262.15,€-7.15 (-2.66%),2.38%,7.62%,16.40%
+IBC3.DE,iShares Core MSCI EM IMI UCITS ETF,€4.82,€-0.04 (-0.87%),8.20%,8.94%,22.48%
+ESIT.DE,iShares MSCI Europe Information Technology Sector UCITS ETF,€7.14,€-1.46 (-17.02%),-5.40%,-8.82%,39.35%
+EX25.VI,iShares STOXX Europe 600 UCITS ETF (DE),€54.69,€-1.50 (-2.67%),1.42%,4.68%,51.61%
+VWCE.DE,Vanguard FTSE All-World UCITS ETF USD Accumulation,€135.68,€-4.32 (-3.09%),8.58%,9.73%,81.45%
+IS3R.DE,iShares Edge MSCI World Momentum Factor UCITS ETF,€78.21,€-5.43 (-6.49%),6.12%,11.94%,77.27%
+SXR8.DE,iShares Core S&P 500 UCITS ETF USD (Acc),€590.34,€-34.78 (-5.56%),10.45%,9.32%,102.92%
+EUNK.DE,iShares Core MSCI Europe UCITS ETF EUR (Acc),€86.44,€-2.22 (-2.50%),2.23%,7.18%,19.16%
+CEMR.DE,iShares Edge MSCI Europe Momentum Factor UCITS ETF EUR (Acc),€13.35,€-0.48 (-3.49%),3.43%,19.40%,81.54%
