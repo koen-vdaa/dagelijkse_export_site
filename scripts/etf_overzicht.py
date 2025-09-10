@@ -93,7 +93,7 @@ def maak_overzicht_tabel(tickers):
 
 # ---------- Main ----------
 if __name__ == "__main__":
-    ETF_array = ["LYP6.DE","IBC3.DE","ESIT.DE","EX25.VI","VWCE.DE","IS3R.DE","SXR8.DE","EUNK.DE","CEMR.DE","EQAC.MI"]
+    ETF_array = ["LYP6.DE","IBC3.DE","ESIT.DE","EX25.VI","VWCE.DE","IS3R.DE","SXR8.DE","VUSA.AS","EUNK.DE","CEMR.DE","EQAC.MI"]
     df = maak_overzicht_tabel(ETF_array)
 
     # Bewaar JSON, CSV, en mooie HTML-tabel in ./docs
