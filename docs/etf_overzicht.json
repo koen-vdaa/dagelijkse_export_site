@@ -2,8 +2,8 @@
   {
     "Ticker":"LYP6.DE",
     "ETF naam":"Amundi Core Stoxx Europe 600 UCITS ETF Acc",
-    "Huidige waarde":"€271.35",
-    "Verschil tot piek (12m)":"€-5.75 (-2.08%)",
+    "Huidige waarde":"€274.70",
+    "Verschil tot piek (12m)":"€-2.40 (-0.87%)",
     "Stijging (4m)":"3.65%",
     "Stijging (12m)":"13.56%",
     "Stijging (5y)":"21.27%"
@@ -11,17 +11,17 @@
   {
     "Ticker":"IBC3.DE",
     "ETF naam":"iShares Core MSCI EM IMI UCITS ETF",
-    "Huidige waarde":"€5.12",
-    "Verschil tot piek (12m)":"€-0.17 (-3.22%)",
+    "Huidige waarde":"€5.25",
+    "Verschil tot piek (12m)":"€-0.04 (-0.79%)",
     "Stijging (4m)":"10.25%",
     "Stijging (12m)":"11.65%",
-    "Stijging (5y)":"22.31%"
+    "Stijging (5y)":"21.81%"
   },
   {
     "Ticker":"ESIT.DE",
     "ETF naam":"iShares MSCI Europe Information Technology Sector UCITS ETF",
-    "Huidige waarde":"€8.25",
-    "Verschil tot piek (12m)":"€-0.48 (-5.54%)",
+    "Huidige waarde":"€8.40",
+    "Verschil tot piek (12m)":"€-0.34 (-3.85%)",
     "Stijging (4m)":"4.60%",
     "Stijging (12m)":"13.51%",
     "Stijging (5y)":"63.97%"
@@ -29,53 +29,53 @@
   {
     "Ticker":"EX25.VI",
     "ETF naam":"iShares STOXX Europe 600 UCITS ETF (DE)",
-    "Huidige waarde":"€56.08",
-    "Verschil tot piek (12m)":"€-1.16 (-2.03%)",
+    "Huidige waarde":"-",
+    "Verschil tot piek (12m)":"-",
     "Stijging (4m)":"2.77%",
     "Stijging (12m)":"10.44%",
-    "Stijging (5y)":"47.62%"
+    "Stijging (5y)":"46.17%"
   },
   {
     "Ticker":"VWCE.DE",
     "ETF naam":"Vanguard FTSE All-World UCITS ETF USD Accumulation",
-    "Huidige waarde":"€141.54",
-    "Verschil tot piek (12m)":"€-24.04 (-14.52%)",
+    "Huidige waarde":"€144.56",
+    "Verschil tot piek (12m)":"€-21.02 (-12.69%)",
     "Stijging (4m)":"7.68%",
     "Stijging (12m)":"6.21%",
-    "Stijging (5y)":"80.31%"
+    "Stijging (5y)":"78.02%"
   },
   {
     "Ticker":"IS3R.DE",
     "ETF naam":"iShares Edge MSCI World Momentum Factor UCITS ETF",
-    "Huidige waarde":"€80.75",
-    "Verschil tot piek (12m)":"€-15.41 (-16.03%)",
+    "Huidige waarde":"€82.71",
+    "Verschil tot piek (12m)":"€-13.45 (-13.99%)",
     "Stijging (4m)":"4.64%",
     "Stijging (12m)":"4.76%",
-    "Stijging (5y)":"76.33%"
+    "Stijging (5y)":"73.12%"
   },
   {
     "Ticker":"SXR8.DE",
     "ETF naam":"iShares Core S&P 500 UCITS ETF USD (Acc)",
-    "Huidige waarde":"€614.14",
-    "Verschil tot piek (12m)":"€-20.38 (-3.21%)",
+    "Huidige waarde":"€627.98",
+    "Verschil tot piek (12m)":"€-6.54 (-1.03%)",
     "Stijging (4m)":"7.51%",
     "Stijging (12m)":"2.77%",
-    "Stijging (5y)":"103.72%"
+    "Stijging (5y)":"100.76%"
   },
   {
     "Ticker":"VUSA.AS",
     "ETF naam":"Vanguard S&P 500 UCITS ETF",
-    "Huidige waarde":"€108.91",
-    "Verschil tot piek (12m)":"€-18.48 (-14.51%)",
+    "Huidige waarde":"€111.33",
+    "Verschil tot piek (12m)":"€-16.06 (-12.61%)",
     "Stijging (4m)":"7.32%",
     "Stijging (12m)":"1.69%",
-    "Stijging (5y)":"91.64%"
+    "Stijging (5y)":"88.95%"
   },
   {
     "Ticker":"EUNK.DE",
     "ETF naam":"iShares Core MSCI Europe UCITS ETF EUR (Acc)",
-    "Huidige waarde":"€89.59",
-    "Verschil tot piek (12m)":"€-1.81 (-1.98%)",
+    "Huidige waarde":"€90.66",
+    "Verschil tot piek (12m)":"€-0.74 (-0.81%)",
     "Stijging (4m)":"3.87%",
     "Stijging (12m)":"13.35%",
     "Stijging (5y)":"24.36%"
@@ -83,19 +83,19 @@
   {
     "Ticker":"CEMR.DE",
     "ETF naam":"iShares Edge MSCI Europe Momentum Factor UCITS ETF EUR (Acc)",
-    "Huidige waarde":"€13.80",
-    "Verschil tot piek (12m)":"€-0.25 (-1.79%)",
+    "Huidige waarde":"€13.99",
+    "Verschil tot piek (12m)":"€-0.06 (-0.40%)",
     "Stijging (4m)":"3.54%",
     "Stijging (12m)":"19.16%",
-    "Stijging (5y)":"77.85%"
+    "Stijging (5y)":"73.91%"
   },
   {
     "Ticker":"EQAC.MI",
     "ETF naam":"Invesco EQQQ NASDAQ-100 UCITS ETF Acc",
-    "Huidige waarde":"€364.39",
-    "Verschil tot piek (12m)":"€-18.93 (-4.94%)",
+    "Huidige waarde":"€375.55",
+    "Verschil tot piek (12m)":"€-7.77 (-2.03%)",
     "Stijging (4m)":"9.28%",
     "Stijging (12m)":"8.01%",
-    "Stijging (5y)":"120.33%"
+    "Stijging (5y)":"116.20%"
   }
 ]
