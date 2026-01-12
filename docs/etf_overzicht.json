@@ -2,8 +2,8 @@
   {
     "Ticker":"LYP6.DE",
     "ETF naam":"Amundi Core Stoxx Europe 600 UCITS ETF Acc",
-    "Huidige waarde":"€293.75",
-    "Verschil tot piek (12m)":"€0.00 (0.00%)",
+    "Huidige waarde":"€293.20",
+    "Verschil tot piek (12m)":"€-0.55 (-0.19%)",
     "Stijging (4m)":"9.92%",
     "Stijging (12m)":"23.50%",
     "Stijging (5y)":"31.28%"
@@ -11,71 +11,71 @@
   {
     "Ticker":"IBC3.DE",
     "ETF naam":"iShares Core MSCI EM IMI UCITS ETF",
-    "Huidige waarde":"€5.44",
-    "Verschil tot piek (12m)":"€0.00 (0.00%)",
+    "Huidige waarde":"€5.43",
+    "Verschil tot piek (12m)":"€-0.01 (-0.19%)",
     "Stijging (4m)":"10.29%",
     "Stijging (12m)":"21.73%",
-    "Stijging (5y)":"15.38%"
+    "Stijging (5y)":"15.61%"
   },
   {
     "Ticker":"ESIT.DE",
     "ETF naam":"iShares MSCI Europe Information Technology Sector UCITS ETF",
-    "Huidige waarde":"€9.22",
-    "Verschil tot piek (12m)":"€0.00 (0.00%)",
+    "Huidige waarde":"€9.16",
+    "Verschil tot piek (12m)":"€-0.06 (-0.69%)",
     "Stijging (4m)":"23.18%",
     "Stijging (12m)":"16.67%",
-    "Stijging (5y)":"68.26%"
+    "Stijging (5y)":"67.47%"
   },
   {
     "Ticker":"EX25.VI",
     "ETF naam":"iShares STOXX Europe 600 UCITS ETF (DE)",
-    "Huidige waarde":"€60.36",
-    "Verschil tot piek (12m)":"€0.00 (0.00%)",
-    "Stijging (4m)":"9.37%",
-    "Stijging (12m)":"19.95%",
-    "Stijging (5y)":"49.22%"
+    "Huidige waarde":"€60.27",
+    "Verschil tot piek (12m)":"€-0.09 (-0.15%)",
+    "Stijging (4m)":"9.20%",
+    "Stijging (12m)":"19.77%",
+    "Stijging (5y)":"48.94%"
   },
   {
     "Ticker":"VWCE.DE",
     "ETF naam":"Vanguard FTSE All-World UCITS ETF USD Accumulation",
-    "Huidige waarde":"€148.90",
-    "Verschil tot piek (12m)":"€0.00 (0.00%)",
+    "Huidige waarde":"€147.88",
+    "Verschil tot piek (12m)":"€-1.02 (-0.69%)",
     "Stijging (4m)":"7.45%",
     "Stijging (12m)":"11.50%",
-    "Stijging (5y)":"77.33%"
+    "Stijging (5y)":"76.97%"
   },
   {
     "Ticker":"IS3R.DE",
     "ETF naam":"iShares Edge MSCI World Momentum Factor UCITS ETF",
-    "Huidige waarde":"€85.81",
-    "Verschil tot piek (12m)":"€0.00 (0.00%)",
+    "Huidige waarde":"€84.89",
+    "Verschil tot piek (12m)":"€-0.92 (-1.07%)",
     "Stijging (4m)":"5.53%",
     "Stijging (12m)":"10.97%",
-    "Stijging (5y)":"72.95%"
+    "Stijging (5y)":"72.22%"
   },
   {
     "Ticker":"SXR8.DE",
     "ETF naam":"iShares Core S&P 500 UCITS ETF USD (Acc)",
-    "Huidige waarde":"€640.58",
-    "Verschil tot piek (12m)":"€0.00 (0.00%)",
+    "Huidige waarde":"€634.14",
+    "Verschil tot piek (12m)":"€-6.44 (-1.01%)",
     "Stijging (4m)":"6.64%",
     "Stijging (12m)":"6.30%",
-    "Stijging (5y)":"102.88%"
+    "Stijging (5y)":"102.59%"
   },
   {
     "Ticker":"VUSA.AS",
     "ETF naam":"Vanguard S&P 500 UCITS ETF",
-    "Huidige waarde":"€113.28",
-    "Verschil tot piek (12m)":"€0.00 (0.00%)",
+    "Huidige waarde":"€112.13",
+    "Verschil tot piek (12m)":"€-1.14 (-1.01%)",
     "Stijging (4m)":"6.16%",
     "Stijging (12m)":"5.29%",
-    "Stijging (5y)":"90.99%"
+    "Stijging (5y)":"90.64%"
   },
   {
     "Ticker":"EUNK.DE",
     "ETF naam":"iShares Core MSCI Europe UCITS ETF EUR (Acc)",
-    "Huidige waarde":"€96.71",
-    "Verschil tot piek (12m)":"€0.00 (0.00%)",
+    "Huidige waarde":"€96.50",
+    "Verschil tot piek (12m)":"€-0.21 (-0.22%)",
     "Stijging (4m)":"9.76%",
     "Stijging (12m)":"22.57%",
     "Stijging (5y)":"34.24%"
@@ -83,19 +83,19 @@
   {
     "Ticker":"CEMR.DE",
     "ETF naam":"iShares Edge MSCI Europe Momentum Factor UCITS ETF EUR (Acc)",
-    "Huidige waarde":"€15.18",
-    "Verschil tot piek (12m)":"€0.00 (0.00%)",
+    "Huidige waarde":"€15.11",
+    "Verschil tot piek (12m)":"€-0.07 (-0.45%)",
     "Stijging (4m)":"9.49%",
     "Stijging (12m)":"31.22%",
-    "Stijging (5y)":"83.11%"
+    "Stijging (5y)":"82.43%"
   },
   {
     "Ticker":"EQAC.MI",
     "ETF naam":"Invesco EQQQ NASDAQ-100 UCITS ETF Acc",
-    "Huidige waarde":"€377.47",
-    "Verschil tot piek (12m)":"€-6.71 (-1.75%)",
+    "Huidige waarde":"€373.33",
+    "Verschil tot piek (12m)":"€-10.85 (-2.82%)",
     "Stijging (4m)":"7.25%",
     "Stijging (12m)":"9.67%",
-    "Stijging (5y)":"111.90%"
+    "Stijging (5y)":"110.77%"
   }
 ]
