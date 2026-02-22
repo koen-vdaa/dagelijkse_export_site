@@ -5,7 +5,7 @@
     "Huidige waarde":"€304.45",
     "Verschil tot piek (12m)":"€0.00 (0.00%)",
     "Stijging (4m)":"9.87%",
-    "Stijging (12m)":"17.30%",
+    "Stijging (12m)":"17.37%",
     "Stijging (5y)":"36.07%"
   },
   {
@@ -14,26 +14,26 @@
     "Huidige waarde":"€5.84",
     "Verschil tot piek (12m)":"€0.00 (0.00%)",
     "Stijging (4m)":"11.33%",
-    "Stijging (12m)":"22.00%",
-    "Stijging (5y)":"19.82%"
+    "Stijging (12m)":"24.58%",
+    "Stijging (5y)":"20.76%"
   },
   {
     "Ticker":"ESIT.DE",
     "ETF naam":"iShares MSCI Europe Information Technology Sector UCITS ETF",
     "Huidige waarde":"€9.45",
     "Verschil tot piek (12m)":"€-0.06 (-0.66%)",
-    "Stijging (4m)":"11.29%",
-    "Stijging (12m)":"11.85%",
-    "Stijging (5y)":"60.64%"
+    "Stijging (4m)":"9.94%",
+    "Stijging (12m)":"12.28%",
+    "Stijging (5y)":"63.52%"
   },
   {
     "Ticker":"EX25.VI",
     "ETF naam":"iShares STOXX Europe 600 UCITS ETF (DE)",
     "Huidige waarde":"€62.54",
     "Verschil tot piek (12m)":"€0.00 (0.00%)",
-    "Stijging (4m)":"9.53%",
-    "Stijging (12m)":"13.92%",
-    "Stijging (5y)":"52.97%"
+    "Stijging (4m)":"9.26%",
+    "Stijging (12m)":"14.02%",
+    "Stijging (5y)":"53.85%"
   },
   {
     "Ticker":"VWCE.DE",
@@ -41,8 +41,8 @@
     "Huidige waarde":"€149.88",
     "Verschil tot piek (12m)":"€-0.36 (-0.24%)",
     "Stijging (4m)":"3.34%",
-    "Stijging (12m)":"7.84%",
-    "Stijging (5y)":"74.00%"
+    "Stijging (12m)":"9.10%",
+    "Stijging (5y)":"75.26%"
   },
   {
     "Ticker":"IS3R.DE",
@@ -50,8 +50,8 @@
     "Huidige waarde":"€86.29",
     "Verschil tot piek (12m)":"€-0.98 (-1.12%)",
     "Stijging (4m)":"4.28%",
-    "Stijging (12m)":"4.99%",
-    "Stijging (5y)":"70.03%"
+    "Stijging (12m)":"6.94%",
+    "Stijging (5y)":"74.57%"
   },
   {
     "Ticker":"SXR8.DE",
@@ -59,8 +59,8 @@
     "Huidige waarde":"€627.44",
     "Verschil tot piek (12m)":"€-16.38 (-2.54%)",
     "Stijging (4m)":"-0.45%",
-    "Stijging (12m)":"1.46%",
-    "Stijging (5y)":"93.94%"
+    "Stijging (12m)":"2.80%",
+    "Stijging (5y)":"95.48%"
   },
   {
     "Ticker":"VUSA.AS",
@@ -68,16 +68,16 @@
     "Huidige waarde":"€110.92",
     "Verschil tot piek (12m)":"€-2.92 (-2.56%)",
     "Stijging (4m)":"-0.69%",
-    "Stijging (12m)":"0.39%",
-    "Stijging (5y)":"82.63%"
+    "Stijging (12m)":"1.73%",
+    "Stijging (5y)":"83.99%"
   },
   {
     "Ticker":"EUNK.DE",
     "ETF naam":"iShares Core MSCI Europe UCITS ETF EUR (Acc)",
     "Huidige waarde":"€100.24",
     "Verschil tot piek (12m)":"€0.00 (0.00%)",
-    "Stijging (4m)":"9.95%",
-    "Stijging (12m)":"16.56%",
+    "Stijging (4m)":"9.67%",
+    "Stijging (12m)":"16.68%",
     "Stijging (5y)":"39.14%"
   },
   {
@@ -85,9 +85,9 @@
     "ETF naam":"iShares Edge MSCI Europe Momentum Factor UCITS ETF EUR (Acc)",
     "Huidige waarde":"€15.72",
     "Verschil tot piek (12m)":"€0.00 (0.00%)",
-    "Stijging (4m)":"13.80%",
-    "Stijging (12m)":"23.33%",
-    "Stijging (5y)":"86.74%"
+    "Stijging (4m)":"13.06%",
+    "Stijging (12m)":"24.36%",
+    "Stijging (5y)":"90.29%"
   },
   {
     "Ticker":"EQAC.MI",
@@ -95,7 +95,7 @@
     "Huidige waarde":"€362.27",
     "Verschil tot piek (12m)":"€-21.91 (-5.70%)",
     "Stijging (4m)":"-4.19%",
-    "Stijging (12m)":"1.31%",
-    "Stijging (5y)":"96.70%"
+    "Stijging (12m)":"3.36%",
+    "Stijging (5y)":"101.43%"
   }
 ]
