@@ -1,12 +1,12 @@
 Ticker,ETF naam,Huidige waarde,Verschil tot piek (12m),Stijging (4m),Stijging (12m),Stijging (5y)
-LYP6.DE,Amundi Core Stoxx Europe 600 UCITS ETF Acc,€325.05,€-0.30 (-0.09%),8.62%,22.34%,45.27%
-IBC3.DE,iShares Core MSCI EM IMI UCITS ETF,€6.39,€-0.44 (-6.47%),9.11%,33.20%,37.15%
-ESIT.DE,iShares MSCI Europe Information Technology Sector UCITS ETF,€12.36,€-0.52 (-4.07%),26.33%,68.18%,73.30%
-EX25.VI,iShares STOXX Europe 600 UCITS ETF (DE) EUR (Dist),€65.85,€-0.14 (-0.21%),7.46%,7.46%,7.46%
-VWCE.DE,Vanguard FTSE All-World UCITS ETF USD Accumulation,€169.76,€0.00 (0.00%),11.91%,24.90%,75.01%
-IS3R.DE,iShares Edge MSCI World Momentum Factor UCITS ETF,€102.48,€-6.36 (-5.84%),14.81%,28.78%,84.55%
-SXR8.DE,iShares Core S&P 500 UCITS ETF USD (Acc),€728.12,€0.00 (0.00%),13.38%,23.15%,89.55%
-VUSA.AS,Vanguard S&P 500 UCITS ETF,€128.13,€0.00 (0.00%),13.24%,22.03%,78.66%
-EUNK.DE,iShares Core MSCI Europe UCITS ETF EUR (Acc),€107.12,€-0.04 (-0.04%),8.89%,22.46%,62.94%
-CEMR.DE,iShares Edge MSCI Europe Momentum Factor UCITS ETF EUR (Acc),€16.01,€-0.13 (-0.83%),3.93%,15.90%,65.82%
-EQAC.MI,Invesco EQQQ NASDAQ-100 UCITS ETF Acc,€446.28,€-7.00 (-1.54%),16.63%,27.94%,109.11%
+LYP6.DE,Amundi Core Stoxx Europe 600 UCITS ETF Acc,€324.00,€-1.35 (-0.41%),nan%,nan%,nan%
+IBC3.DE,iShares Core MSCI EM IMI UCITS ETF,€6.35,€-0.48 (-6.98%),nan%,nan%,nan%
+ESIT.DE,iShares MSCI Europe Information Technology Sector UCITS ETF,€12.27,€-0.61 (-4.72%),nan%,nan%,nan%
+EX25.VI,iShares STOXX Europe 600 UCITS ETF (DE) EUR (Dist),€65.78,€-0.21 (-0.32%),nan%,nan%,nan%
+VWCE.DE,Vanguard FTSE All-World UCITS ETF USD Accumulation,€168.88,€-0.74 (-0.44%),nan%,nan%,nan%
+IS3R.DE,iShares Edge MSCI World Momentum Factor UCITS ETF,€102.18,€-6.66 (-6.12%),nan%,nan%,nan%
+SXR8.DE,iShares Core S&P 500 UCITS ETF USD (Acc),€724.18,€-3.00 (-0.41%),nan%,nan%,nan%
+VUSA.AS,Vanguard S&P 500 UCITS ETF,€127.43,€-0.54 (-0.42%),nan%,nan%,nan%
+EUNK.DE,iShares Core MSCI Europe UCITS ETF EUR (Acc),€106.84,€-0.32 (-0.30%),nan%,nan%,nan%
+CEMR.DE,iShares Edge MSCI Europe Momentum Factor UCITS ETF EUR (Acc),€15.99,€-0.15 (-0.92%),nan%,nan%,nan%
+EQAC.MI,Invesco EQQQ NASDAQ-100 UCITS ETF Acc,€442.72,€-10.56 (-2.33%),nan%,nan%,nan%
